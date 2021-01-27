@@ -1,0 +1,21 @@
+# Setup
+title:               XBlogs
+tagline:             'Hosted by L. Xiong'
+description:         'A site for trending topics in cancer research'
+baseurl:             '/XBlogs'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Lingyun Xiong
+  url:               https://lingyunxiong.github.io
+  email:             u3502943@connect.hku.hk
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0 (Testing)
+google_analytics_id: #UA-XXXX-Y
