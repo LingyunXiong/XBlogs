@@ -1,7 +1,7 @@
 # Setup
 title:               XBlogs
 tagline:             'Hosted by L. Xiong'
-description:         'A site for trending topics in cancer research'
+description:         'A blog page for trending topics in cancer research'
 baseurl:             '/XBlogs'
 paginate:            5
 permalink:           pretty
